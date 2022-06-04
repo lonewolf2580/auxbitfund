@@ -11,8 +11,8 @@ $plans = ["STANDARD", "DICE", "PREMIUM", "GOLDEN"];
                         <img src="en/img/title-star1.svg"  alt="" class="top-text-decor1 js-img">
                         <img src="en/img/title-star2.svg"  alt="" class="top-text-decor2 js-img">
                         <span class="top-text__descr">Our current offers</span>
-                        <h2>Investment Plans</h2>
-                        <p>We offer our investors great investment plans. </p>
+                        <h2>TRADING PLANS</h2>
+                        <p>We offer our investors great Trading plans. </p>
                     </div>
                                    
                     <div class="how-items">

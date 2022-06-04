@@ -46,7 +46,7 @@
                                 <ul>
                                     <li><span>For Investors</span></li>
                                     <li><a href="shares">Company Shares</a></li>
-                                    <li><a href="investments">Investment Plans</a></li>
+                                    <li><a href="investments">Trading Plans</a></li>
                                     <li><a href="affiliate">Affiliate Program</a></li>
                                 </ul>
                                 <ul>

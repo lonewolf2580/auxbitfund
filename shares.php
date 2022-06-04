@@ -41,7 +41,7 @@ require 'header.php';
 							<span class="refferal-program__title">We’ve designed a new way for investors to invest in Our company  Stock. We call it, Company Shares.</span>
 						</div>
 						<div class="refferal-program__info">
-							<p>Blocknux offers a unique multi-level stock investment program that allows you Put simply, they’re a portfolio of company stocks that share similar characteristics, and they’re based on sectors that are trying to make a difference (think Green led or Mobile tech companies). We think ‘Company shares’ define them best, but these types of assets have many different names (look for Company index on the Dashboard).
+							<p><?= $site_title; ?> offers a unique multi-level stock investment program that allows you Put simply, they’re a portfolio of company stocks that share similar characteristics, and they’re based on sectors that are trying to make a difference (think Green led or Mobile tech companies). We think ‘Company shares’ define them best, but these types of assets have many different names (look for Company index on the Dashboard).
 
 In a nutshell, these assets track and measure the performance (or price movement) of a specific market sector. This means they behave exactly like an index. They allow you to trade a portfolio of company shares with one click, instead of opening multiple positions per company share each time. 
 
@@ -73,7 +73,7 @@ Businesses with a tasty alternative; Beyond Meat, Ingredion Incorporated, Bunge 
 					<div class="sign-block__content">
 						<div class="top-text">
 							<span class="top-text__descr">Buy Asset</span>
-							<h5>Blocknux Commission-free investing, plus the tools you need to put your money in motion. Sign up and get your first Company shares.</h5>
+							<h5><?= $site_title; ?> Commission-free investing, plus the tools you need to put your money in motion. Sign up and get your first Company shares.</h5>
                                                         <a href="login" class="btn">Get Started</a>
 						</div>
 						<img  src="en/img/sign-refferal-img.png" srcset="/en/img/sign-refferal-img.png 1x, /en/img/sign-refferal-img-2x.png 2x"  
