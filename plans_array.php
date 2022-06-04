@@ -63,7 +63,7 @@ $plans = ["STANDARD", "DICE", "PREMIUM", "GOLDEN"];
                                 <span class="investment-card__rate-interest" style="color: #fff"> 
                                     <ul> 
                                         <li>Total return: <?= $planROI; ?>%</li>
-                                        <li>Referral Bonus: 10%</li>
+                                        <li>Referral Bonus: 5%</li>
                                     </ul> 
                                 </span><br>
                                 <span class="investment-card__rate-exp">Duration : <?= $planDuration; ?> Day(s)</span><br>
