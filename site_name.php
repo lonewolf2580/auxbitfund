@@ -1,7 +1,7 @@
 <?php 
 
 $site_title = "FotranTrading";
-$site_url = "https://demon.skyrocap.com";
+$site_url = "https://auxbitfund.com";
 $support_email = "example@example.com";
 $company_address = "Castle Meadows, Huish Champflower, Taunton, England";
 $site_logo = $site_url . "/img/up_logo.png";

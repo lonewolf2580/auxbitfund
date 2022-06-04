@@ -31,7 +31,7 @@ require 'header.php';
 							</div>
 						</div>
                                             <div class="about-img-wrap">
-                        <img src="en/img/cert.jpg" alt="certificate" class="img-fluid rounded shadow-sm">
+                        <img src="<?= $cert; ?>" alt="certificate" class="img-fluid rounded shadow-sm">
                         
                     </div>
 					</div>

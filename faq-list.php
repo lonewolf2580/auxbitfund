@@ -45,7 +45,7 @@
 								<div class="faq-item__content">
 									<p>We have investment plans to choose from. 
 									<br><br>
-									Example: You made a deposit to the plan providing 110% return with a duration of 10 days; if you start with a $1,000 deposit in this plan, you will be paid back a total profit of $1,100 in exactly 10 calendar days. Your $100 net profit and $1,000 body will be automatically added to your account. After this, you can choose to withdraw or reinvest to increase your profits at any time. Interest is paid at the end of the deposit term.
+									Example: You made a deposit to the plan providing up to 5.5% return with a duration of 7 days; if you start with a $1,000 deposit in this plan, you will be paid back a total profit of $55 in exactly 7 calendar days. Your $55 net profit and $1,000 capital will be automatically added to your account. After this, you can choose to withdraw or reinvest to increase your profits at any time. Interest is paid at the end of the deposit term.
 									</p>
 								</div>
 							</div>
@@ -55,7 +55,7 @@
 									<span class="faq-item__head-btn"></span>
 								</div>
 								<div class="faq-item__content">
-									<p>Deposits and withdrawals are accepted through BTC (Bitcoin), ETH (Ethereum), LTC (Litecoin) , BNB (Binance coin) and Tether USD (erc-20).</p>
+									<p>Deposits and withdrawals are accepted through BTC (Bitcoin), ETH (Ethereum), LTC (Litecoin) , BNB (Binance coin) and Tether USD (TRC-20).</p>
 								</div>
 							</div>
 							<div class="faq-item">
@@ -75,7 +75,7 @@
 									<span class="faq-item__head-btn"></span>
 								</div>
 								<div class="faq-item__content">
-									<p>You can start withdrawing with the minimum USD100 and there is no maximum.</p>
+									<p>You can start withdrawing with the minimum $5 and there is no maximum.</p>
 								</div>
 							</div>
 							<div class="faq-item">

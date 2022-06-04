@@ -21,7 +21,7 @@ $plans = ["STANDARD", "DICE", "PREMIUM", "GOLDEN"];
                             switch ($plan) {
                                 case 'STANDARD':
                                     $roi = 2.5;
-                                    $invPlan = [$plan, $roi, 7, 250, 999];
+                                    $invPlan = [$plan, $roi, 7, 50, 999];
                                     break;
 
                                 case 'DICE':
