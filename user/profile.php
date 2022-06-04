@@ -43,13 +43,15 @@ if ($num_inv !== false) {
                                 <div class="panel-body">
                                     <h4 style="font-weight: bolder;">Name : <?= $user['name'] ?></h4>
                                     <h4 style="font-weight: bolder;">Email : <?= $user['email'] ?></h4>
+                                    <h4 style="font-weight: bolder;">Phone Number : <?= $user['phone'] ?></h4>
+                                    <h4 style="font-weight: bolder;">Country : <?= $user['country'] ?></h4>
                                     <h4 style="font-weight: bolder;">Gender : <?= $user['gender'] ?></h4>
                                     <h4 style="font-weight: bolder;">Member ID : #<?= $user['acn'] ?></h4>
                                     <!-- <h4 style="font-weight: bolder;">Investment Capital : $<?= round(floatval($user['inv_cap']), 2) ?></h4> -->
                                     <h4 style="font-weight: bolder;">Balance : $<?= round(floatval($user['usd_bal']), 2) ?></h4>
                                     <h4 style="font-weight: bolder;">Plan : <?= $user['plan'] ?></h4>
                                     <h4 style="font-weight: bolder;">Referral ID : <?= $user['ref_id'] ?></h4>
-                                    <p style="color: red;font-weight: bolder;">Refer your friends and Earn 2.5% on their every deposit</p>
+                                    <p style="color: red;font-weight: bolder;">Refer your friends and Earn 5% on their every deposit</p>
                                     
                                 </div>
                                 <div class="panel-footer">

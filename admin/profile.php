@@ -54,6 +54,8 @@ if (isset($_GET['user_id'])) {
                                     <h4 style="font-weight: bolder;">Name : <?= $user['name'] ?></h4>
                                     <h4 style="font-weight: bolder;">Email : <?= $user['email'] ?></h4>
                                     <h4 style="font-weight: bolder;">Gender : <?= $user['gender'] ?></h4>
+                                    <h4 style="font-weight: bolder;">Phone Number : <?= $user['phone'] ?></h4>
+                                    <h4 style="font-weight: bolder;">Country : <?= $user['country'] ?></h4>
                                     <?php 
                                         if ($user['activated'] == 2) {
                                             $act_status = "Active";

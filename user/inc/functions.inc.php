@@ -213,7 +213,7 @@ function register_user($post)
 		$acn_init = random_int(10, 37);
 		$acn_end = random_int(10000001, 99999999);
 		$acn = $acn_init . $acn_end;
-		$sql = "INSERT INTO users (name, email, gender, plan, acn, password, ref_id, referrer, activated, act_code) VALUES ('$name', '$email', '$gender', '$plan', '$acn', '$password', '$ref_id', '$ref', '$activated', '$act_code')";
+		$sql = "INSERT INTO users (name, email, phone, country, gender, plan, acn, password, ref_id, referrer, activated, act_code) VALUES ('$name', '$email', '$phone', '$country', '$gender', '$plan', '$acn', '$password', '$ref_id', '$ref', '$activated', '$act_code')";
 			$query = mysqli_query($link, $sql);
 			if ($query) {
 				return $act_code;
