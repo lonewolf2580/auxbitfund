@@ -49,7 +49,7 @@ if (!empty($_GET['status'])) {
 
                     <?php if (isset($_POST['submit']) && !empty($_POST['amt']) && ($_POST['currency'] != "Select Currency Preference")) {
                       
-                    	if ($_POST['amt'] >= 20) {
+                    	if ($_POST['amt'] >= 5) {
                           if ($_POST['amt'] <= $user['usd_bal']) {
                             
                               
@@ -153,8 +153,8 @@ if (!empty($_GET['status'])) {
                               $sql = "UPDATE users SET act_code = '$pin' WHERE email = '$email'";
                               $query = mysqli_query($link, $sql);
                               if ($query) {
-                                    // $send_mail = send_mail($email, $name, $subject, $body);
-                                    $send_mail = true;
+                                    $send_mail = send_mail($email, $name, $subject, $body);
+                                    // $send_mail = true;
                                     if ($send_mail) {
                                       $register = withdraw($_POST, $user_id);
                                         if ($register === true) {
@@ -202,7 +202,7 @@ if (!empty($_GET['status'])) {
 						                                    	<label>Amount($)</label>
 						                                        <input id="amtp" class="form-control" name="amt" type="text" autofocus>
                                                                 <br>
-                                                                <p style="color: red; font-weight: bolder;">Minimum Withdrawal $20</p>
+                                                                <p style="color: red; font-weight: bolder;">Minimum Withdrawal $5</p>
                                                                 <!-- <br> -->
 						                                    </div>
 						                                    <label>Select Payment Method</label>

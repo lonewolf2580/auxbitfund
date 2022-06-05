@@ -20,23 +20,23 @@ $plans = ["STANDARD", "DICE", "PREMIUM", "GOLDEN"];
                         foreach ($plans as $plan) {
                             switch ($plan) {
                                 case 'STANDARD':
-                                    $roi = 2.5;
+                                    $roi = 17.5;
                                     $invPlan = [$plan, $roi, 7, 50, 999];
                                     break;
 
                                 case 'DICE':
-                                    $roi = 3.5;
+                                    $roi = 24.5;
                                     $invPlan = [$plan, $roi, 7, 1000, 9999];
                                     $height = "97px";
                                     break;
 
                                 case 'PREMIUM':
-                                    $roi = 4.5;
+                                    $roi = 31.5;
                                     $invPlan = [$plan, $roi, 7, 10000, 49000];
                                     break;
 
                                 case 'GOLDEN':
-                                    $roi = 5.5;
+                                    $roi = 38.5;
                                     $invPlan = [$plan, $roi, 7, 50000, 500000];
                                     break;
                                 

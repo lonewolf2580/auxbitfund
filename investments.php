@@ -7,7 +7,7 @@ require 'header.php';
 
     <!-- BEGIN CONTENT -->
 
-    <main class="content">
+    <main class="content" style="padding-top: 80px;">
         
         
         
@@ -56,7 +56,6 @@ require 'header.php';
 						<img src="en/img/sign-block-img2.png" 
 						class="js-img sign-block-decor2" alt="">
 					</div>
-                </div>
                 <div class="main-faq__block">
                     <h5>Questions?</h5>
                     <p>We’re happy to help! We’ll get back to you as quickly as possible.</p>

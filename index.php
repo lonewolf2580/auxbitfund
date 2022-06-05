@@ -391,7 +391,7 @@ require 'site_name.php';
 						<span class="top-text__descr">We accept</span>
 						<h3>All popular cryptocurrencies</h3>
 						<p>
-							The cryptocurrencies we accept have secure payments, and you can pay them with money using popular options, such as: WalletPay, cash or PayPal.						</p>
+							The cryptocurrencies we accept have secure payments, and you can pay them with money using popular options, such as: Perfect Money, Giftcards or PayPal.						</p>
 					</div>
 					<div class="popular-items">
 						<div class="popular-item">
@@ -504,7 +504,7 @@ require 'site_name.php';
 							</div>
 							<span>2. Make Deposit</span>
 							<p>
-								Choose an investment plan and payment system that will be used for depositing and withdrawing your funds.
+								Choose a trading plan and payment system that will be used for depositing and withdrawing your funds.
 							</p>
 						</div>
 						<div class="how-item">
@@ -636,7 +636,8 @@ require 'site_name.php';
 								</div>
 							</div>
 							<p>I have only been a member for a few days and already have earned a decent amount of money. Finally a real and honest company that does what is says. Thank you so much for this great opportunity.</p>
-							<span class="customers-item__date">June 01, 2021</span>
+							<span class="customers-item__date">May 23,2022
+							</span>
 						</div>
 						<div class="customers-item">
 							<div class="customers-item__author">
@@ -651,7 +652,7 @@ require 'site_name.php';
 								</div>
 							</div>
                                                     <p>I just wanted to pass on a big thank you to the whole team at <?= $site_title; ?>. We feel as though they truly care about our financial future. A thoroughbred company with a first class package. Thank you and wish you all the best.</p>
-							<span class="customers-item__date">June 02, 2021</span>
+							<span class="customers-item__date">May 02, 2022</span>
 						</div>
 						<div class="customers-item">
 							<div class="customers-item__author">
@@ -666,7 +667,7 @@ require 'site_name.php';
 								</div>
 							</div>
 							<p>A very strong program. Honest, professional, and very punctual with payments. They regularly provide updates and have always been available to answer any questions. Very happy with how things are going!</p>
-							<span class="customers-item__date">May 31, 2021</span>
+							<span class="customers-item__date">April 31, 2022</span>
 						</div>
 					</div>
 				</div>
@@ -709,7 +710,7 @@ require 'site_name.php';
 								class="js-img" alt="">
 							</a>
 							<a href="#" class="news-item__title"><?= $site_title; ?> Grand Launch.</a>
-							<span class="news-item__date">June 07, 2021</span>
+							<span class="news-item__date">June 07, 2014</span>
 						</div>
 						<div class="news-item">
 							<a href="#" class="news-item__img">
@@ -717,7 +718,7 @@ require 'site_name.php';
 								class="js-img" alt="">
 							</a>
 							<a href="#" class="news-item__title">Ethereum has been added.</a>
-							<span class="news-item__date">June 07, 2021</span>
+							<span class="news-item__date">March 10, 2020</span>
 						</div>
 						<div class="news-item">
 							<a href="#" class="news-item__img">
@@ -725,7 +726,7 @@ require 'site_name.php';
 								class="js-img" alt="">
 							</a>
 							<a href="#" class="news-item__title">Enhanced DDoS protection.</a>
-							<span class="news-item__date">June 08, 2021</span>
+							<span class="news-item__date">May 20, 2022</span>
 						</div>
 					</div>
 				</div>

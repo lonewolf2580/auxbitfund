@@ -57,11 +57,11 @@ require 'header.php';
 							</div>
 							<div class="faq-item">
 								<div class="faq-item__head">
-									What investment plans are currently available?
+									What Trading plans are currently available?
 									<span class="faq-item__head-btn"></span>
 								</div>
 								<div class="faq-item__content">
-									<p>We have investment plans to choose from. 
+									<p>We have Trading plans to choose from. 
 									<br><br>
 									Example: You made a deposit to the plan providing 110% return with a duration of 10 days; if you start with a $1,000 deposit in this plan, you will be paid back a total profit of $1,100 in exactly 10 calendar days. Your $100 net profit and $1,000 body will be automatically added to your account. After this, you can choose to withdraw or reinvest to increase your profits at any time. Interest is paid at the end of the deposit term.
 									</p>
@@ -82,7 +82,7 @@ require 'header.php';
 									<span class="faq-item__head-btn"></span>
 								</div>
 								<div class="faq-item__content">
-									<p>You can start investing with the minimum and maximum provided on the investment plans. You can have multiple active Investment at the same time.</p>
+									<p>You can start Trading with the minimum and maximum provided on the Trading plans. You can have multiple active Investment at the same time.</p>
 								</div>
 							</div>
 						</div>

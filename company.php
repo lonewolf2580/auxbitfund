@@ -17,7 +17,7 @@ require 'header.php';
                     <span class="top-text__descr">Who we are</span>
                     <h2>About <?= $site_title; ?></h2>
                     <span class="about-main__info-subtitle"><?= $site_title; ?> LTD is well-grounded and intends to stay that way</span>
-                    <p><?= $site_title; ?> LTD was founded in 2015 by Thomas C Ferguson and his diligent team. <?= $site_title; ?> is a leading cryptocurrency investment company that issues debit cards and provides cryptocurrency trading. According to the research agency IBIS World, the debit card industry brought beneficiaries about $107 bln in revenue and $24 bln in net profit in 2020. The profit of our company is generated from the cost of additional debit card services and an annual service fee. Our company is officially registered in England, which gives us strategic advantages in the form of flexibility and transaction speed. </p>
+                    <p><?= $site_title; ?> LTD was founded in 2011 by Thomas C Ferguson and his diligent team. <?= $site_title; ?> is a leading cryptocurrency investment company that issues debit cards and provides cryptocurrency trading. According to the research agency IBIS World, the debit card industry brought beneficiaries about $107 bln in revenue and $24 bln in net profit in 2020. The profit of our company is generated from the cost of additional debit card services and an annual service fee. Our company is officially registered in England, which gives us strategic advantages in the form of flexibility and transaction speed. </p>
                     <div class="about-main__info-presentation">
                         <img src="en/img/lei.svg"
                              class="js-img" alt="">

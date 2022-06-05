@@ -1,9 +1,9 @@
 <?php 
 
 define("HOST", "localhost");
-define("USERNAME", "skyraikc_lincom");
+define("USERNAME", "fotrhbtu_lincom");
 define("PASSWORD", "1Lone2wolf@");
-define("DBNAME", "skyraikc_bosco");
+define("DBNAME", "fotrhbtu_bosco");
 
 $link = mysqli_connect(HOST, USERNAME, PASSWORD, DBNAME);
 
@@ -13,7 +13,7 @@ $link = mysqli_connect(HOST, USERNAME, PASSWORD, DBNAME);
 // define("PASSWORD", "");
 // define("DBNAME", "skyraikc_google");
 
-$link = mysqli_connect(HOST, USERNAME, PASSWORD, DBNAME);
+// $link = mysqli_connect(HOST, USERNAME, PASSWORD, DBNAME);
 
 
 $no_plan = "Select Investment Plan";

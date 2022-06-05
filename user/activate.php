@@ -3,7 +3,7 @@ require_once 'inc/functions.inc.php';
 require '../site_name.php';
 if (!empty($_GET['actc'])) {
 	$actc = urldecode($_GET['actc']);
-	$sql = "UPDATE users SET activated = 1 WHERE act_code = '$actc'";
+	$sql = "UPDATE users SET activated = 2 WHERE act_code = '$actc'";
 	$query = mysqli_query($link, $sql);
 	}
 ?>

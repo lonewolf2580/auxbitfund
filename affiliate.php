@@ -7,9 +7,9 @@ require 'header.php';
 
     <!-- BEGIN CONTENT -->
 
-    <main class="content">
+    <main class="content" >
 <!-- BEGIN REFFERAL MAIN BLOCK -->
-			<section class="referral-main detail-main">
+			<section class="referral-main detail-main" style="padding-bottom: 0;">
 				<div class="wrapper">
 					<div class="referral-main__content">
 						<div class="referral-main-decor1">

@@ -153,3 +153,30 @@ Stack trace:
 [17-Jan-2022 06:21:47 UTC] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/skyraikc/demon.skyrocap.com/email_file/PHPMailer/src/PHPMailer.php on line 3599
 [17-Jan-2022 06:21:47 UTC] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/skyraikc/demon.skyrocap.com/email_file/PHPMailer/src/PHPMailer.php on line 3599
 [17-Jan-2022 06:21:47 UTC] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/skyraikc/demon.skyrocap.com/email_file/PHPMailer/src/PHPMailer.php on line 3599
+[04-Jun-2022 21:56:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_all_team() in /home/fotrhbtu/public_html/admin/team.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/fotrhbtu/public_html/admin/team.php on line 103
+[04-Jun-2022 23:32:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_all_team() in /home/fotrhbtu/public_html/admin/team.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/fotrhbtu/public_html/admin/team.php on line 103
+[04-Jun-2022 23:33:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_all_team() in /home/fotrhbtu/public_html/admin/team.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/fotrhbtu/public_html/admin/team.php on line 103
+[04-Jun-2022 23:33:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_all_team() in /home/fotrhbtu/public_html/admin/team.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/fotrhbtu/public_html/admin/team.php on line 103
+[05-Jun-2022 03:05:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_all_team() in /home/fotrhbtu/public_html/admin/team.php:100
+Stack trace:
+#0 {main}
+  thrown in /home/fotrhbtu/public_html/admin/team.php on line 100
+[05-Jun-2022 03:47:34 UTC] PHP Notice:  Undefined variable: query2 in /home/fotrhbtu/public_html/admin/all_profit.php on line 204
+[05-Jun-2022 03:47:34 UTC] PHP Notice:  Undefined variable: query4 in /home/fotrhbtu/public_html/admin/all_profit.php on line 204
+[05-Jun-2022 03:47:34 UTC] PHP Notice:  Undefined index: total in /home/fotrhbtu/public_html/admin/pkg.php on line 8
+[05-Jun-2022 05:56:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_all_team() in /home/fotrhbtu/public_html/admin/team.php:100
+Stack trace:
+#0 {main}
+  thrown in /home/fotrhbtu/public_html/admin/team.php on line 100

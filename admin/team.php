@@ -14,8 +14,6 @@ if (isset($_GET['action'])) {
 }
 
 ?>
-
-
 <div class="row">
                         <div class="col-lg-6">
                             <div class="panel panel-default">
@@ -65,7 +63,6 @@ if (isset($_GET['action'])) {
 						                                    
 						                                </fieldset>
 						                            </form>
-                                    
 
                                     <!-- /.modal -->
                                 </div>
@@ -123,8 +120,6 @@ if (isset($_GET['action'])) {
                                                 <?php }
                                             	} ?>
 
-
-                                                
                                             </tbody>
                                         </table>
                                     </div>

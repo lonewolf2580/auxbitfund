@@ -12,7 +12,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="format-detection" content="telephone=no">
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no, maximum-scale=1">
-	<title>News | Blocknux | Bitcoin Investment | Cryptocurrency Investment | Etherium Investment</title>
+	<title>News | Fotrantrading | Bitcoin Investment | Cryptocurrency Investment | Etherium Investment</title>
 	<meta name='description' content="" />
 	<meta name="keywords" content="" />
 	<link rel="icon" type="image/x-icon" href="en/img/favicon.ico" />
@@ -325,7 +325,7 @@ p {
 							<span class="top-text__descr">Our News</span>
 							<h1>Our News</h1>
 							<p>
-                                Keep up with the latest Blocknux news.
+                                Keep up with the latest Fotrantrading news.
 							</p>
                         </div>
                         <div class="news-main__items">
@@ -335,8 +335,8 @@ p {
 									class="js-img" alt="">
                                 </div>
                                 <span class="news-main__item-title">Enhanced DDoS protection</span>
-                                <p>We have improved our DDoS protection in order to prevent hackers from jeopardizing our website. Rest assured that we are doing our best to maintain performance at the highest level possible.<br><br>As you know, we are currently trying our hardest to stand out in everything we do. We work very hard in order to achieve the best results for your investments. We have also put a lot of time and effort into improving the customer service side of things, improving your overall experience at Blocknux.</p>
-                                <span class="news-main__item-date">June 08, 2021 / 09:55 PM</span>
+                                <p>We have improved our DDoS protection in order to prevent hackers from jeopardizing our website. Rest assured that we are doing our best to maintain performance at the highest level possible.<br><br>As you know, we are currently trying our hardest to stand out in everything we do. We work very hard in order to achieve the best results for your investments. We have also put a lot of time and effort into improving the customer service side of things, improving your overall experience at Fotrantrading.</p>
+                                <span class="news-main__item-date">May 20, 2022 / 09:55 PM</span>
                             </div>
                             <div class="news-main__item">
                                 <div class="news-main__item-img">
@@ -344,7 +344,7 @@ p {
 									class="js-img" alt="">
                                 </div>
                                 <span class="news-main__item-title">Ethereum has been added</span>
-                                <p>We are pleased to announce the addition of a new payment method: Ethereum. This latest addition expands the number of payment methods now available to our investors, as a way of catering further to your own individual needs and preferences.Enjoy this new payment method, as one of the many deposit / withdrawal options now available to you from Blocknux.com.</p>
+                                <p>We are pleased to announce the addition of a new payment method: Ethereum. This latest addition expands the number of payment methods now available to our investors, as a way of catering further to your own individual needs and preferences.Enjoy this new payment method, as one of the many deposit / withdrawal options now available to you from Fotrantading.com.</p>
                                 <span class="news-main__item-date">June 07, 2021 / 03:27 PM</span>
                             </div>
                             <div class="news-main__item">
@@ -352,16 +352,16 @@ p {
                                     <img src="en/img/news-1.jpg" srcset="en/img/news-1.jpg"
 									class="js-img" alt="">
                                 </div>
-                                <span class="news-main__item-title">Blocknux Grand Launch</span>
+                                <span class="news-main__item-title">Fotrantrading Grand Launch</span>
                                 <p>You are about to take part in a very profitable yet safe venture that can put your financial life in a new standard allowing you to live a life filled with opportunities and comfort. Opening an online version of our investment company is an expansion project and we expect to satisfy as much investors as we have been satisfying in our offline business over the years.
                                 <br><br>
-                                Blocknux has been built for both experienced investors and newcomers so please take some time to read through it and get acquainted to our activities and business model.
+                                Fotrantrading has been built for both experienced investors and newcomers so please take some time to read through it and get acquainted to our activities and business model.
                                 <br><br>
-                                From this moment Blocknux.com service is OPEN to all countries and it's our hope that here with us, each will
+                                From this moment fotrantrading.com service is OPEN to all countries and it's our hope that here with us, each will
                                 experience a brighter future.
                                 <br><br>
-                                Blocknux Team</p>
-                                <span class="news-main__item-date">June 07, 2021 / 05:51 PM</span>
+                                Fotrantrading Team</p>
+                                <span class="news-main__item-date">June 07, 2014 / 05:51 PM</span>
                             </div>
                         </div>
 					</div>

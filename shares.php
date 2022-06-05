@@ -28,8 +28,6 @@ require 'header.php';
 								Invest in company that share your vision
 							</p>
 						</div>
-					</div>
-				</div>
 			</section>
 			<!-- REFFERAL MAIN BLOCK EOF   -->
 			<!-- BEGIN REFFERAL PROGRAM -->
@@ -63,9 +61,6 @@ Businesses with a tasty alternative; Beyond Meat, Ingredion Incorporated, Bunge 
 </p>
 							<p>As one of the successful brands operating within Exinity Group, we are specialists in leveraged investing, giving you the potential to generate financial returns on both rising and falling prices across commodities and shares. Whether you’re an experienced investor or completely new to it, we’re here to help you find freedom in the financial markets.</p>
 						</div>
-					</div>
-				</div>
-			</div>
 			<!-- REFFERAL PROGRAM EOF   -->
 			<!-- BEGIN SIGN BLOCK -->
 			<div class="sign-block sign-block__referral">
